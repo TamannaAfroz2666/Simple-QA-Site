@@ -113,6 +113,8 @@ body {
 
 }
 .logo_items{
+    width: 80%;
+    margin-left: 7%;
     display: flex;
     justify-content: space-around; 
 }
@@ -134,8 +136,10 @@ body {
     text-align: center;
 }
 .learn_more{
+    width: 120px;
     font-size: 14px;
     font-weight: 700;
+    border: 2px;
     color: #f1f1f1;
     border-radius: 10px;
     background-color: #1E90FF;
@@ -145,9 +149,10 @@ body {
 
 }
 .logo_items_send{
+    width: 80%;
     display: flex;
     margin-left: 7%;
-    margin-right: 10%;
+    /* margin-right: 10%; */
     padding-top: 60px;
     justify-content: space-evenly; 
 
