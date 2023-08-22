@@ -224,9 +224,21 @@ body {
 }
 .topic_of_ft{
     display: flex;
-    gap: 50px;
+    gap: 20px;
 }
-.hr{
+.service{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.app_title{
+    width: 200px;
+}
+.logo_footer{
+    width: 80px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+/* .hr{
     color: wheat;
     background-color: #f1f1f1;
-}
+} */
