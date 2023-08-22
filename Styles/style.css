@@ -102,6 +102,7 @@ body {
 /* company information start  */
 .company_info{
     margin-left: 50px;
+    background-color: white;
 }
 .company_info_title{
     font-size: 25px;
@@ -156,5 +157,17 @@ body {
     padding-top: 60px;
     justify-content: space-evenly; 
 
+}
+
+/* form start  */
+.employee{
+    margin-left: 50px;
+    background-color: gray;
+
+}
+.main{
+    display: flex;
+    gap: 50px;
+    margin-left: 30%
 }
 
