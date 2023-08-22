@@ -161,13 +161,64 @@ body {
 
 /* form start  */
 .employee{
-    margin-left: 50px;
-    background-color: gray;
+    margin-top: 40px;
+    padding-top: 20px;
+    width: 60%;
+    margin-left: 25%;
+    margin-right: 15%;
+    background-image: linear-gradient(to bottom right, LightPink, SeaShell);
+
+}
+.heading{
+    font-size: 20px;
+    color: #1E90FF;   
+    margin-left: 25%;
+    padding-top: 20px;
 
 }
 .main{
     display: flex;
     gap: 50px;
-    margin-left: 30%
+    margin-left: 20%;
+    padding-bottom: 20px;
 }
+.first_name{
+    font-size: 16px;
+    font-weight: 700;
+    color: #1E90FF;   
+}
+.start_field{
+    width: 200px;
+    height: 30px;
+}
+.menubar{
+    width: 200px;
+    height: 30px;
 
+}
+.btn_request{
+    width: 200px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 35%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: rgb(78, 70, 70);
+    color: aliceblue;
+
+}
+/* form end  */
+
+/* footer start  */
+.footer_main{
+    width: 80%;
+    color: rgb(233, 236, 240);
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(32, 29, 29);
+}
+.footer_heading{ 
+    text-align: center;
+    padding: 15px;
+}
