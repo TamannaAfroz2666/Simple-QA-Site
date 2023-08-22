@@ -222,6 +222,10 @@ body {
     text-align: center;
     padding: 15px;
 }
+.topic_of_ft{
+    display: flex;
+    gap: 50px;
+}
 .hr{
     color: wheat;
     background-color: #f1f1f1;
